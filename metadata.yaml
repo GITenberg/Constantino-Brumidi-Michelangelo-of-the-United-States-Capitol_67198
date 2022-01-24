@@ -1,0 +1,34 @@
+_repo: Constantino-Brumidi-Michelangelo-of-the-United-States-Capitol_67198
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Murdock, Myrtle Cheney
+    aliases:
+    - Murdock, Myrtle Mina Cheney
+    - Cheney, Myrtle Mina
+    - Cheney, Myrtle M.
+    - Murdock, Mrs. John R.
+    birthdate: 1885
+    deathdate: 1980
+    gutenberg_agent_id: '54121'
+    url: http://www.gutenberg.org/2009/agents/54121
+description: ''
+gutenberg_issued: '2022-01-19'
+identifiers:
+  gutenberg: '67198'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/mdp.39015023488714
+pgterms:marc905: 20210118015452murdock
+pgterms:marc906: '1950'
+pgterms:marc907: US
+production_note: Tim Lindell, Chuck Greif and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: United States :Monumental Press,1950.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Constantino Brumidi, Michelangelo of the United States Capitol
+url: http://www.gutenberg.org/ebooks/67198
